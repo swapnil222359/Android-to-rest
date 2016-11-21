@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyQuiz</string>
+    <string name="question_text">
+        this is the question
+    </string>
+    <string name="true_button">true</string>
+    <string name="false_button">false</string>
+    <string name="correct_toast">Correct</string>
+    <string name="incorrect_toast">Incorrect</string>
+    <string name="next_button">next</string>
+</resources>
